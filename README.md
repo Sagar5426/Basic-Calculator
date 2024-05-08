@@ -2,11 +2,12 @@
 
 This is a simple calculator app that performs addition, subtraction, multiplication, and division using the Rhino library.
 
-![calculator-1](https://github.com/Sagar5426/Basic-Calculator/assets/108585817/9b805d32-aeba-4c46-b02a-76df858e4903)
+<img width="240" alt="Screenshot 2024-05-08 at 4 45 02 PM" src="https://github.com/Sagar5426/Basic-Calculator/assets/108585817/9b805d32-aeba-4c46-b02a-76df858e4903"> 
 
-<img width="200" alt="Screenshot 2024-05-08 at 4 45 02 PM" src="https://github.com/Sagar5426/Basic-Calculator/assets/108585817/9b805d32-aeba-4c46-b02a-76df858e4903"> 
+<img width="240" alt="Screenshot 2024-05-08 at 4 45 02 PM" src="https://github.com/Sagar5426/Basic-Calculator/assets/108585817/b960fdd4-1d9a-4d09-8d70-89da5c8f3e99"> 
 
-![calculator-2](https://github.com/Sagar5426/Basic-Calculator/assets/108585817/b960fdd4-1d9a-4d09-8d70-89da5c8f3e99)
+
+
 
 ## Usage
 
